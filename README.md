@@ -47,7 +47,7 @@ Aplikasi manajemen pengguna sederhana dengan fitur Create, Read, Update, dan Del
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/ReykaMR/crud-app-javascript.git
 cd crud-app-javascript
 ```
 
