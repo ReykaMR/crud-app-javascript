@@ -2,10 +2,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=api&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-16+-green?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-4.x-blue?logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8+-blue?logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-blue?logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)
 
 Aplikasi manajemen pengguna sederhana dengan fitur Create, Read, Update, dan Delete (CRUD) yang dibangun menggunakan HTML, Bootstrap 5 Vanilla JavaScript, Node.js, dan MySQL.
 
