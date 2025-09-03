@@ -93,7 +93,7 @@ const connection = mysql.createConnection({
   database: 'crud_app_javascript'
 });
 ```
-4. Jalankan server:
+5. Jalankan server:
 ```bash
 npm run dev
 ```
