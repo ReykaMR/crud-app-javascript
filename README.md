@@ -11,7 +11,7 @@ Aplikasi manajemen pengguna sederhana dengan fitur Create, Read, Update, dan Del
 
 ## 🖼️ Tampilan Aplikasi
 <p align="center">
-  <img src="screenshot-aplikasi/foto1.png" alt="Screenshot 1" width="50%">
+  <img src="screenshot-aplikasi/foto1.png" alt="Screenshot 1" width="75%">
 </p>
 
 ## ✨ Fitur
