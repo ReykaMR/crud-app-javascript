@@ -7,7 +7,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Aplikasi manajemen pengguna sederhana dengan fitur Create, Read, Update, dan Delete (CRUD) yang dibangun menggunakan HTML, Bootstrap 5 Vanilla JavaScript, Node.js, dan MySQL.
+Aplikasi manajemen pengguna sederhana dengan fitur Create, Read, Update, dan Delete (CRUD) yang dibangun menggunakan HTML, Bootstrap 5, Vanilla JavaScript, Node.js, dan MySQL.
 
 ## 🖼️ Tampilan Aplikasi
 <p align="center">
